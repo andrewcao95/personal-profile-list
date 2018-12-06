@@ -1,6 +1,5 @@
 ## Publication
 
-
 #### Fish eye recognition based on weighted constraint AdaBoost and pupil diameter automatic measurement with improved Hough circle transform
 *co-worker: Hu Zhuhua, Zhang Yiran, Zhao Yaochi, Cao Lu, Bai Yong, Huang Mengxing*  (2017/12)
 
@@ -17,7 +16,12 @@ Spectrum sensing is one of the key technologies in wireless wideband communicati
 
 <center><img src="./images/A_Sequential_Compressed_Spectrum.jpg" width="70%"></center>
 
+#### Study on fish caudal peduncle measuring method based on image processing and linear fitting
+*co-worker: Zhuhua Hu, Lu Cao, Yiran Zhang, Yaochi Zhao*  (2017/02)
 
+The measurement of fish caudal peduncle in aquaculture farm is of great significance in aquaculturemanagement. At present, the main measuring method is depend on manual work which is inefficient andsubjective. This study proposed a new measuring method based on image processing and linear fitting. Firstly,the images are collected in the fish farm using equipments; then, the external contour of the fish is obtainedthrough edge detection and contour extraction based on the fish morphological character; finally, the length ofcaudal peduncle is figured out using corner detection and least square line fitting after the extracting of ROI ofthe caudal peduncle. The results show that the average measurement time is 1. 01 seconds, the averagemeasurement error is 0.34 mm, and the accuracy of measurement has reached over 95%. Lots of studies haveshown that the proposed method can not only solve the problem that manual operation is complex as well assubjective, but also avoid time-consuming measurement; and provide an effective way for non-contact massmeasurement of fish caudal peduncle.
+
+<center><img src="./images/Study_on_fish_caudal.jpg" width="70%"></center>
 
 
 
